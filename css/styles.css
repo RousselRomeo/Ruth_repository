@@ -43,7 +43,8 @@ p {
 }
 
 .white-section {
-  background-color: #001f3f;
+  /* background-color: #001f3f; */
+  background-color: #042a38;
 }
 
 /* Navigation Bar */
@@ -139,7 +140,9 @@ p {
   line-height: 1.6em;
   margin-bottom: 10px;
   font-size: 16px;
-  color: rgb(23, 23, 23);
+  color: white;
+  /* color: #042a38; */
+  /* color: rgb(23, 23, 23); */
   margin-top: 10px;
   text-align: left;
 }
@@ -185,4 +188,18 @@ p {
     position: static;
     transform: rotate(0);
   }
+}
+
+.shadow-box {
+  background-color: #021d27;
+  color: white;
+  margin-top: 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 2px 0 yellow, 0 6px 20px 0 orange;
+  /* box-shadow: 50px 50px; */
+}
+
+.img {
+  height: 500px;
+  width: 500px;
 }
