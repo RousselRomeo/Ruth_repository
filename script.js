@@ -3,9 +3,9 @@ function home() {
 }
 
 function aboutUs() {
-  window.location.href = "index2.html";
+  window.location.href = "index3.html";
 }
 
 function ourServices() {
-  window.location.href = "index3.html";
+  window.location.href = "index2.html";
 }
