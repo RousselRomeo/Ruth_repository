@@ -9,3 +9,7 @@ function aboutUs() {
 function ourServices() {
   window.location.href = "index2.html";
 }
+
+function career() {
+  window.location.href = "index4.html";
+}
