@@ -13,3 +13,6 @@ function ourServices() {
 function career() {
   window.location.href = "index4.html";
 }
+function contactUs() {
+  window.location.href = "index5.html";
+}
