@@ -28,8 +28,32 @@ function serviceAndMaintenance() {
 function healthcare() {
   window.location.href = "healthcare.html";
 }
+
+function biotechPharma() {
+  window.location.href = "biotechPharma.html";
+}
+function transportation() {
+  window.location.href = "transportation.html";
+}
+
+function institutional() {
+  window.location.href = "institutional.html";
+}
+
+function designAssist() {
+  window.location.href = "designAssist.html";
+}
+
+function designBuild() {
+  window.location.href = "designBuild.html";
+}
+
 function aboutUs() {
   window.location.href = "index3.html";
+}
+
+function education() {
+  window.location.href = "education.html";
 }
 
 function ourServices() {
