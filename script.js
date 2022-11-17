@@ -66,3 +66,6 @@ function career() {
 function contactUs() {
   window.location.href = "index5.html";
 }
+function controlSystem() {
+  window.location.href = "controlSystem.html";
+}
