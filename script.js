@@ -69,3 +69,7 @@ function contactUs() {
 function controlSystem() {
   window.location.href = "controlSystem.html";
 }
+
+function electricVehicle() {
+  window.location.href = "electricVehicle.html";
+}
