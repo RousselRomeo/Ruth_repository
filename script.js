@@ -2,6 +2,13 @@ function home() {
   window.location.href = "index.html";
 }
 
+function telecom() {
+  window.location.href = "telecom.html";
+}
+function securitySystems() {
+  window.location.href = "securitySystems.html";
+}
+
 function renewableEnergy() {
   window.location.href = "renewableEnergy.html";
 }
